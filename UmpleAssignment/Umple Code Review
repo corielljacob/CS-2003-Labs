@@ -1,0 +1,9 @@
+Account Class Differences:
+The generated program created a constructor for my account class that sets the account number, sets the total orders for the account,
+and creates an arraylist for each order made by the account. This arraylist lets an account add an order, add an order at an
+index, delete an order, move an order, see if it has an order, and toString everything. 
+Customer Class Differences: 
+Allows for deletion of an Customer, provides toString method, can construct an account for the user automatically if the 
+account details are supplied
+Order Class Differences: 
+Allows for deletion of an order, provides toString method, allows user to set an order to an account
